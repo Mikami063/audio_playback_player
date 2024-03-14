@@ -2,7 +2,7 @@ audio_playback_player
 
 -----
 
-This code is mainly copied from video tutorial about how to deal with audio decoding with FFmpeg and MiniAudio, it can only play audio
+This code is mainly followed and derived from video tutorial below for me to learn how to deal with audio decoding with FFmpeg and MiniAudio, it can only play audio
 
 https://www.youtube.com/watch?v=-jugPJ_O8iM&t=1127s
 
